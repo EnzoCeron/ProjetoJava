@@ -1,0 +1,56 @@
+carro,Ford,Fiesta,vermelho,2018
+carro,Toyota,Corolla,preto,2019
+moto,Honda,CG 150,150
+carro,Chevrolet,Onix,branco,2020
+carro,Volkswagen,Golf,prata,2017
+moto,Yamaha,Fazer 250,250
+carro,Ford,Mustang,amarelo,2021
+moto,Honda,CG 125,125
+carro,Toyota,Yaris,azul,2019
+moto,Kawasaki,Ninja 300,300
+carro,Chevrolet,Camaro,vermelho,2016
+carro,Volkswagen,Polo,branco,2020
+moto,Yamaha,YBR 125,125
+carro,Ford,Ranger,prata,2017
+moto,Honda,Biz 125,125
+carro,Toyota,Hilux,preto,2019
+carro,Chevrolet,Prisma,azul,2018
+moto,Kawasaki,Z300,300
+carro,Volkswagen,Virtus,branco,2020
+carro,Fiat,Uno,vermelho,2015
+moto,Yamaha,XJ6,600
+carro,Ford,Ecosport,prata,2017
+moto,Honda,Pop 110i,110
+carro,Toyota,RAV4,preto,2019
+carro,Chevrolet,S10,azul,2018
+moto,Kawasaki,Vulcan S,650
+carro,Volkswagen,T-Cross,branco,2020
+carro,Fiat,Mobi,vermelho,2015
+moto,Yamaha,MT-03,300
+carro,Ford,Fusion,preto,2019
+carro,Toyota,Etios,azul,2018
+moto,Kawasaki,Z650,650
+carro,Chevrolet,Tracker,branco,2020
+carro,Volkswagen,Gol,vermelho,2015
+moto,Yamaha,Ténéré 250,250
+carro,Ford,Focus,preto,2019
+carro,Toyota,Camry,azul,2018
+moto,Kawasaki,Ninja 650,650
+carro,Chevrolet,Spin,branco,2020
+carro,Volkswagen,Saveiro,vermelho,2015
+moto,Yamaha,MT-07,700
+Vendedor,João Silva,joao@email.com,30,1234567890,1001
+Comprador,Maria Santos,maria@email.com,25,9876543210,Rua ABC,123
+Vendedor,Carlos Pereira,carlos@email.com,35,1357924680,1002
+Comprador,Ana Oliveira,ana@email.com,28,2468135790,Rua XYZ,456
+Comprador,Lucas Souza,lucas@email.com,32,1029384756,Rua 123,789
+Vendedor,Juliana Mendes,juliana@email.com,29,8765432109,1003
+Vendedor,Rodrigo Ferreira,rodrigo@email.com,31,9081726354,1004
+Comprador,Larissa Rodrigues,larissa@email.com,16,3647281092,Rua 456,321
+Vendedor,André Santos,andre@email.com,33,9182736452,1005
+Comprador,Paulo Castro,paulo@email.com,26,8372619405,Rua 789,654
+Vendedor,Alice Silva,alice@email.com,28,5748392016,1006
+Comprador,Fernanda Lima,fernanda@email.com,30,2938475601,Rua 987,876
+Vendedor,Gustavo Oliveira,gustavo@email.com,29,1837465920,1007
+Comprador,Mariana Sousa,mariana@email.com,31,1827364950,Rua 654,432
+Vendedor,Pedro Santos,pedro@email.com,19,4758693021,1008
