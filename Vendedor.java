@@ -16,7 +16,7 @@ public class Vendedor extends Pessoa {
     }
     
 
-    // void venderVeiculo(Veiculo veiculo, Concessionaria concessionaria) {
-    //    concessionaria.venderVeiculo(veiculo);
-    //}
+    void venderVeiculo(Veiculo veiculo, Concessionaria concessionaria) {
+        concessionaria.venderVeiculo(veiculo);
+    }
 }

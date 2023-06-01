@@ -17,7 +17,7 @@ public class Comprador extends Pessoa {
 
     public String comprarVeiculo(Veiculo veiculo, Vendedor vendedor, Concessionaria concessionaria) throws IdadeInsuficienteException {
         if (concessionaria.getIdade() >= 18) {
-            //vendedor.venderVeiculo(veiculo, concessionaria);
+            vendedor.venderVeiculo(veiculo, concessionaria);
             return "Compra realizada com sucesso!";
         } else {
             throw new IdadeInsuficienteException("Idade insuficiente para realizar a compra.");

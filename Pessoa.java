@@ -3,7 +3,7 @@ import java.io.Serializable;
  public abstract  class Pessoa implements Serializable {
     protected String nome;
     protected String email;
-    public static int idade;
+    protected int idade;
     protected double cpf;
 
     public Pessoa(String nome, String email, int idade, double cpf) {
